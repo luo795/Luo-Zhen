@@ -1,0 +1,61 @@
+Guide: Edit README.md on GitHub
+Prerequisites
+1. Log into your GitHub account.
+2. Own a repository with write access.
+3. Locate the README.md file in the main branch.
+
+ Steps
+1. Open your repository page and click README.md.
+2. Click the pencil icon to enter the edit page.
+3. Type or paste your content into the edit box.
+4. Click Preview to check markdown formatting.
+5. Click the green Commit changes… button to save.
+
+ Result Check
+Return to the repository homepage. Confirm that your updated README text shows correctly under the repo name. If the content does not appear, refresh the page or check your commit history.
+
+Style Rules for Technical Documentation
+1. Rule: Use specific button names instead of vague words.
+Before: Save it.
+After: Click the green Commit changes… button.
+2. Rule: Avoid casual informal words like "super easy".
+Before: It is super easy to update your intro file.
+After: You can update your repository introduction file.
+3. Rule: Use active voice and address the reader directly.
+Before: Editing can be done by you.
+After: You edit the text in the edit box.
+4. Rule: Name the exact file instead of vague nouns.
+Before: Open your intro file.
+After: Open the README.md file.
+5. Rule: Add clear condition for error handling.
+Before: If you cannot edit, ask somebody.
+After: If the edit button is missing, ask your repository owner for write permission.
+6. Rule: Split long sentences into short, single-action steps.
+Before: Open it and do the necessary editing then save.
+After: Open the editor. Edit your content. Save your changes.
+
+ Record of Changes
+1. Change: Changed “Save it” → “Click the green Commit changes… button”
+Linked rule: Rule1 (Use specific button names)
+Reason: Readers know exactly which button to click.
+2. Change: Removed “super easy” from the draft
+Linked rule: Rule2 (Avoid casual informal words)
+Reason: Technical writing should be formal and objective.
+3. Change: Rewrote passive sentences to use "you"
+Linked rule: Rule3 (Use active voice)
+Reason: Instructions are clearer and easier to follow.
+4. Change: Changed “intro file” → “README.md file”
+Linked rule: Rule4 (Name the exact file)
+Reason: No confusion about which file to edit.
+5. Change: Changed “ask somebody” → “ask your repository owner for write permission”
+Linked rule: Rule5 (Add clear error condition)
+Reason: Readers know who to contact and what problem they are fixing.
+6. Change: Split one long run-on sentence into separate action steps
+Linked rule: Rule6 (Use short single-action sentences)
+Reason: Readers follow one instruction at a time without confusion.
+
+Peer Comment
+Peer feedback: The original steps were too short. It would help to add a note that you need write permission before editing README.md.
+I used this feedback to add the permission detail in rule 5 and the prerequisites.
+AI Disclosure
+I used AI to help revise wording, organize style rules and count word length. All content and technical steps are based on my own GitHub operation.
